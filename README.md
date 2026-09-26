@@ -1,11 +1,9 @@
 ## CT005: NỀN TẢNG CÔNG NGHỆ SỐ
 
-HKI, Năm học: 20xx-20xx
+HKI, Năm học: 2026-2027
 
-**MSSV**: ...
+**MSSV**: B2605484
 
-**Họ tên SV**: ...
+**Họ tên SV**: Nguyễn Hoàng Vũ
 
-**Mã lớp học**: ...
-
-
+**Mã lớp học**: CT005D05
