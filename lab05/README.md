@@ -1,6 +1,6 @@
 ## CT005: NỀN TẢNG CÔNG NGHỆ SỐ
 
-HKx, Năm học: 2026-2027
+HK1, Năm học: 2026-2027
 
 **MSSV**: B2605484
 
